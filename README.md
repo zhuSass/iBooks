@@ -1,7 +1,10 @@
 # iBooks
 ### 爱读书预览地址
 
-<iframe src="//player.bilibili.com/player.html?aid=753529216&bvid=BV1Jk4y1z7hA&cid=201581619&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<video preload="auto" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"></video>
+<!-- <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="mp4" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"" type="video/mp4">
+</video> -->
 
 ## 介绍
 项目基于ReactNative 框架开发。项目中的小说数据来自搜索引擎网站，纯属共享学习之用，不得用于商业！！
