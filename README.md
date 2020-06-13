@@ -1,7 +1,7 @@
 # iBooks
 ### 爱读书预览地址
 
-[![Watch the video](https://upload-images.jianshu.io/upload_images/19654461-c7c7c434d20a695e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4)
+[![点击预览地址](http://chuantu.xyz/t6/738/1592044138x3070485370.png)](https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4)
 
 ## 介绍
 项目基于ReactNative 框架开发。项目中的小说数据来自搜索引擎网站，纯属共享学习之用！！
