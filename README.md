@@ -1,14 +1,10 @@
 # iBooks
 ### 爱读书预览地址
 
-<!-- <video preload="auto" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"></video> -->
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4)
-<!-- <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"" type="video/mp4">
-</video> -->
+[![Watch the video](https://upload-images.jianshu.io/upload_images/19654461-c7c7c434d20a695e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4)
 
 ## 介绍
-项目基于ReactNative 框架开发。项目中的小说数据来自搜索引擎网站，纯属共享学习之用，不得用于商业！！
+项目基于ReactNative 框架开发。项目中的小说数据来自搜索引擎网站，纯属共享学习之用！！
 ## TODO
 > * [x] 本地数据库选型(WatermelonDB 关系型数据库)，数据库表设计,将orm操作引入项目
 > * [x] 本地客户端爬虫skd封装，爬取小说源网站数据
