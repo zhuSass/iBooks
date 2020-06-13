@@ -1,6 +1,6 @@
 # iBooks
 ### 点击预览地址
-
+![image](http://www.finewithu.cn/zhuzengzhi/pic.gif)
 [![点击预览地址](http://www.finewithu.cn/zhuzengzhi/pic.gif)](http://www.finewithu.cn/zhuzengzhi/video.mp4)
 
 ## 介绍
