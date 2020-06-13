@@ -1,5 +1,5 @@
 # iBooks
-### 爱读书预览地址
+### 点击预览地址
 
 [![点击预览地址](http://chuantu.xyz/t6/738/1592044138x3070485370.png)](https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4)
 
