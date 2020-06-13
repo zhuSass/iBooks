@@ -1,7 +1,8 @@
 # iBooks
 ### 爱读书预览地址
 
-<video preload="auto" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"></video>
+<!-- <video preload="auto" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"></video> -->
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4)
 <!-- <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
       <source id="mp4" src="https://s27.aconvert.com/convert/p3r68-cdx67/e2x2h-uv2y2.mp4"" type="video/mp4">
 </video> -->
@@ -16,6 +17,6 @@
 > * [x] 引入阅读页主题，暂时两个主题，api设计灵活后续可用户自行挑选
 > * [x] react-native 从0.60.x升级至0.62.x
 > * [ ] 小说离线下载
-> * [] 加入收藏，对历史记录章节进行缓存
-> * [] 书签功能
-> * [] 阅读页引入章节列表
+> * [ ] 加入收藏，对历史记录章节进行缓存
+> * [ ] 书签功能
+> * [ ] 阅读页引入章节列表
